@@ -1,0 +1,23 @@
+!<DOCTYPE html>
+<html lang="en">
+</html>
+<head>
+    <meta> charset="UTF-8"
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Bacon egg and chesse</title>
+</head>
+
+<body>
+     <nav>
+        E Recipes
+        <img src="https://www.oliviascuisine.com/wp-content/uploads/2016/07/bacon-egg-and-cheese-1.jpg"
+         alt="" srcset="">
+     </nav>
+     <section>
+        <div></div>
+        <div></div>
+     </section>
+
+</body>
+
+</html>
